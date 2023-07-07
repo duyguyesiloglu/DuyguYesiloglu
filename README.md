@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unity, Swift**
 
-- 👨‍💻 All of my projects are available at [https://github.com/duyguyesiloglu](https://github.com/duyguyesiloglu)
+- 👨‍💻 Some of my projects are available at [https://github.com/duyguyesiloglu](https://github.com/duyguyesiloglu)
 
 - 📫 How to reach me **duygu.yesiloglu@tedu.edu.tr**
 
